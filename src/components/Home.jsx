@@ -8,7 +8,7 @@ const Home = () => {
     <section className=" mt-20 mb-14 px-3">
       <div className="home_container bg-white">
         <div className="home_conten grid t grid-cols-1 md:grid-cols-6 gap-1 items-center pt-3">
-          <div className="col-span-6">
+          <div className="col-span-6 md:col-span-1">
             <Social />
           </div>
           <div className=" col-span-6 md:col-span-3">
